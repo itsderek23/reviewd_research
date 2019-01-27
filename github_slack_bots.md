@@ -2,6 +2,11 @@
 
 A list of Slack bots that interact with GitHub.
 
+* [Reminders](#reminders)
+  * [Closed Source](#closed-source-hosted)
+  * [Open Source](#open-source-self-hosted)
+* [Everything else](#everything-else)
+
 ## Reminders
 
 There are several bots dedicated to reminding your team of open pull requests and review requests.
