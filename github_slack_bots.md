@@ -93,7 +93,7 @@ Allows you to manage deploys within Slack by leveraging the GitHub deployments A
 
 #### [Engineer Notifier](https://github.com/petrgazarov/engineer-notifier)
 
-Mentions engineers by their Slack handle when they are mentioned on GitHub. Define slack => GitHub handles via the `MENTIONS_TO_HANDLES` environment variable. Has a "Deploy to Heroku" button.
+Mentions engineers by their Slack handle when they are mentioned on GitHub. Define slack => GitHub handles via the `MENTIONS_TO_HANDLES` environment variable. Has a "Deploy to Heroku" button. 12 stars.
 
 #### [DeployBot](https://deploybot.com/)
 
