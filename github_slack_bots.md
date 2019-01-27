@@ -45,3 +45,21 @@ A Python script that posts a message to Slack with a list of all open PRs for th
 ### [Seal](https://github.com/binaryberry/seal)
 
 A Ruby script that sends a daily message with a list of open pull requests to Slack. Has a "Deploy to Heroku" button. 321 stars.
+
+### [review-waiting-list-bot](https://github.com/ohbarye/review-waiting-list-bot)
+
+A Slack bot that lists outstanding review requests via `@review-bot ls`. 59 stars.
+
+### [Pull Reminders](https://pullreminders.com)
+
+Posts a daily message to Slack with outstanding review requests. Can also be configured to send realtime messages on PR comments, mentions, and more. 
+
+Pricing starts at $14/mo and is free for open-source, non-commercial projects.
+
+### [Repo Info](https://gitrepo.info/)
+
+Check the health of public repos via Repo Info's Slack bot. When posting a link to a GitHub repo in Slack, Repo Info displays the number of stars, watchers, forks, recent activity, and checks for outdated dependencies.
+
+### [Loolp](https://www.loolp.com/)
+
+Notifies Slack members of review requests and completed reviews. These messages appear to be in realtime - there is no daily reminder like Pull Reminders, Seal, or Slack Pull Reminders.
