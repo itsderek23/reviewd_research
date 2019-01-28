@@ -19,10 +19,6 @@ Posts a daily message to Slack with outstanding review requests. Can also be con
 
 Pricing starts at $14/mo and is free for open-source, non-commercial projects.
 
-#### [Loolp](https://www.loolp.com/)
-
-Notifies Slack members of review requests and completed reviews. These messages appear to be in realtime - there is no daily reminder like Pull Reminders, Seal, or Slack Pull Reminders.
-
 #### [Eleminder](https://eleminder.com/)
 
 Reminds you of outstanding review requests, PR comments, build status, and more.
@@ -74,6 +70,14 @@ HubCommander helps you manage GitHub orgs, performing tasks like:
 1,000+ stars.
 
 __Install:__ self-hosted.
+
+#### [Loolp](https://www.loolp.com/)
+
+Notifies Slack members of review requests and completed reviews. These messages appear to be in realtime - there is no daily reminder like Pull Reminders, Seal, or Slack Pull Reminders.
+
+#### [GitHub Reviewer Notifier](https://github.com/EnixCoda/github-code-review-notifier)
+
+Similar to Loolp, sends a realtime message when you are requested to review a PR. 13 stars.
 
 #### [Probot Reminders](https://github.com/probot/reminders)
 
